@@ -1,0 +1,10 @@
+.childrenCard{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(14, 10, 10);
+    color: #af36b1;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
