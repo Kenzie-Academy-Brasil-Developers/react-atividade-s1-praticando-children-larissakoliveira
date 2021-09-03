@@ -12,7 +12,7 @@ function App() {
 
         {
           childrens.map((item)=>(
-            <CenteredCard children = {item}/>
+            <CenteredCard ><em> {item}</em></CenteredCard>
           ))
         }
 
